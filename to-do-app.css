@@ -1,0 +1,47 @@
+body {
+            padding: 230px;
+            background-color: rgba(106, 77, 19, 0.266);
+        }
+
+        .contain {
+            display: flex;
+            flex-direction: column;
+            border: 2px solid;
+            background-color: rgb(187, 157, 97);
+            width: 500px;
+            height: 300px;
+            text-align: center;
+            margin: auto;
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            font-size: 23px;
+            font-style: oblique;
+            overflow: auto;
+        }
+        .ul{
+
+            list-style-type: none;
+            padding: 0px;
+            margin: 0px;
+            
+        }
+        #add{
+            padding:7px;
+            font-size: 15px;
+            font-style: oblique;
+            background-color: seagreen;
+        }
+        #btndel{
+            font-size: 15px;
+            font-style: oblique;
+            background-color: rgba(255, 255, 0, 0.767);
+            padding:7px;
+        }
+        #text{
+            background-color: rgb(3, 250, 180);
+            padding: 8px;
+        }
+        .head{
+            background-color: rgb(5, 251, 238);
+            font-style: oblique;
+            padding: 8px;
+        }
